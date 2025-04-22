@@ -18,5 +18,3 @@ Convert é um projeto criado durante os estudos na Rocketseat com o objetivo de 
 
 1. **Clone project**: `git clone git@github.com:ViniiD3v/Convert.git`
 2. **Open project with extension**: `Live Server`
-
-- [MIT](https://rem.mit-license.org)

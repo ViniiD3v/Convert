@@ -16,5 +16,5 @@ Convert é um projeto criado durante os estudos na Rocketseat com o objetivo de 
 
 ## Como usar
 
-1. **Cloar o projeto**: `git clone git@github.com:ViniiD3v/Convert.git`
+1. **Clonar o projeto**: `git clone git@github.com:ViniiD3v/Convert.git`
 2. **Abrir com a extensão**: `Live Server`
